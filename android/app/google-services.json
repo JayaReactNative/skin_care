@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373862877577",
+    "project_id": "skincare-diy",
+    "storage_bucket": "skincare-diy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373862877577:android:06b531825218d44fdef958",
+        "android_client_info": {
+          "package_name": "com.example.skin_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85XdWZk79ld-muh6HZoj_OO65iLI2w6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
